@@ -8,7 +8,18 @@
 <p align="center">
     <img src="https://i.imgur.com/lbmY4Xv.png" width="600">
 </p>
-
-
-
-
+<h2>▶ Executando a Aplicação</h2>
+<h4>.bat</h4>
+<p align="justify">
+  Uma maneira de executar o programa é através do arquivo .bat localizado no diretório <b>/dist</b>. Ao fazê-lo, o programa solicitará os nomes dos participantes, os quais devem ser inseridos <u>separados por vírgula</u>, sem aspas. Por exemplo: Marcelo luna, Solange Guedes, Maria Eduarda, João Guedes.
+</p>
+<p align="center">
+    <img src="https://i.imgur.com/zIhMhrl.png" width="600">
+</p>
+<h4>IDE</h4>
+<p align="justify">
+  Você pode executar o programa através de uma IDE. Nesse caso, os parâmetros devem ser configurados nas opções de execução da IDE. Aqui, os nomes dos participantes devem continuar a ser passados separados por vírgula. No entanto, ao contrário da execução com o arquivo .bat, todos os nomes devem ser <u>envolvidos por aspas</u>. Por exemplo: <b>"</b>Marcelo Luna, Solange Guedes, Maria Eduarda, João Guedes<b>"</b>.
+</p>
+<p align="center">
+    <img src="https://i.imgur.com/IWP7wHm.png" width="600">
+</p>
